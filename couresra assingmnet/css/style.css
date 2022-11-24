@@ -1,0 +1,15 @@
+.first-div{
+    margin: 25px;
+    background-color: gray;
+    border: 2px solid black;
+}
+
+
+.first-div h4{
+  text-align: end;
+}
+
+.first-div span{
+    border: 2px solid black;
+
+}
